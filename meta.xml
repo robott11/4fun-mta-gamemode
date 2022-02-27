@@ -1,4 +1,6 @@
 <meta>
     <info author="Robott" type="gamemode" name="4FUN Gamemode" description="My first MTA server" />
-    <script src="gamemode.lua" type="server" />
+    <oop>true</oop>
+    <script src="events.lua" type="server" />
+    <script src="commands.lua" type="server" />
 </meta>
