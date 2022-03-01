@@ -1,0 +1,4 @@
+<meta>
+    <info author="Robott" type="script" name="4fun-core" description="4FUN main resource" />
+    <script src="s_core.lua" type="server" />
+</meta>

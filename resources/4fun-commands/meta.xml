@@ -1,0 +1,4 @@
+<meta>
+    <info author="Robott" type="script" name="4fun-commands" description="4FUN commands resource" />
+    <script src="s_commands.lua" type="server" />
+</meta>

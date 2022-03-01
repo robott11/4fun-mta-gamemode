@@ -1,0 +1,4 @@
+<meta>
+    <info author="Robott" type="script" name="4fun-events" description="4FUN events resource" />
+    <script src="s_events.lua" type="server" />
+</meta>

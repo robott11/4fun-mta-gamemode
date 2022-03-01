@@ -6,7 +6,7 @@ addEventHandler("onPlayerJoin", getRootElement(),
 		fadeCamera(source, true)
 		setCameraTarget(source)
 
-		outputChatBox("| JOIN | "..source:getName().." Entrou no server", root, 160, 160, 160)
+		outputChatBox("| JOIN | "..getPlayerName(source).." Entrou no server", root, 160, 160, 160)
 	end
 )
 
